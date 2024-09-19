@@ -7,7 +7,7 @@ Our findings highlight the need for improved labeling methods to ensure more rel
 The data used in this study are available to support further research and industry applications.
 
 ### VT scan reports:
-Due to the data size limitation of Github, we put all the VT scan reports of samples on Zenodo.
+Due to the data size limitation of Github, we put all the VT scan reports of samples on [Zenodo](https://zenodo.org/records/13790832).
 It includes: (1) the first and second VT scans for the GPset; (2) the first and second VT scans for the 3rdset;
 (3) the VT scan for the fused (multi-family) samples.
 
